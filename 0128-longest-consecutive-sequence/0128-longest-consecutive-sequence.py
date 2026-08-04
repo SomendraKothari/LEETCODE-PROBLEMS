@@ -12,5 +12,6 @@ class Solution(object):
             c=1
             while i+c in s:
                 c+=1
-            m=max(m,c)
+            if c>m:
+                m=c
         return m
