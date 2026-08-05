@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/SomendraKothari/LEETCODE-PROBLEMS/tree/master/0485-max-consecutive-ones) |
 | [0904-fruit-into-baskets](https://github.com/SomendraKothari/LEETCODE-PROBLEMS/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/SomendraKothari/LEETCODE-PROBLEMS/tree/master/1004-max-consecutive-ones-iii) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/SomendraKothari/LEETCODE-PROBLEMS/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Hash Table
 |  |
 | ------- |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/SomendraKothari/LEETCODE-PROBLEMS/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/SomendraKothari/LEETCODE-PROBLEMS/tree/master/0075-sort-colors) |
 | [0347-top-k-frequent-elements](https://github.com/SomendraKothari/LEETCODE-PROBLEMS/tree/master/0347-top-k-frequent-elements) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/SomendraKothari/LEETCODE-PROBLEMS/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/SomendraKothari/LEETCODE-PROBLEMS/tree/master/0209-minimum-size-subarray-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/SomendraKothari/LEETCODE-PROBLEMS/tree/master/1004-max-consecutive-ones-iii) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/SomendraKothari/LEETCODE-PROBLEMS/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Sliding Window
 |  |
 | ------- |
@@ -84,9 +87,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/SomendraKothari/LEETCODE-PROBLEMS/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0904-fruit-into-baskets](https://github.com/SomendraKothari/LEETCODE-PROBLEMS/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/SomendraKothari/LEETCODE-PROBLEMS/tree/master/1004-max-consecutive-ones-iii) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/SomendraKothari/LEETCODE-PROBLEMS/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/SomendraKothari/LEETCODE-PROBLEMS/tree/master/0209-minimum-size-subarray-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/SomendraKothari/LEETCODE-PROBLEMS/tree/master/1004-max-consecutive-ones-iii) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/SomendraKothari/LEETCODE-PROBLEMS/tree/master/1838-frequency-of-the-most-frequent-element) |
+## Greedy
+|  |
+| ------- |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/SomendraKothari/LEETCODE-PROBLEMS/tree/master/1838-frequency-of-the-most-frequent-element) |
 <!---LeetCode Topics End-->
