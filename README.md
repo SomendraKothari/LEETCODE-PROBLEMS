@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/SomendraKothari/LEETCODE-PROBLEMS/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/SomendraKothari/LEETCODE-PROBLEMS/tree/master/0075-sort-colors) |
 | [0128-longest-consecutive-sequence](https://github.com/SomendraKothari/LEETCODE-PROBLEMS/tree/master/0128-longest-consecutive-sequence) |
+| [0209-minimum-size-subarray-sum](https://github.com/SomendraKothari/LEETCODE-PROBLEMS/tree/master/0209-minimum-size-subarray-sum) |
 | [0347-top-k-frequent-elements](https://github.com/SomendraKothari/LEETCODE-PROBLEMS/tree/master/0347-top-k-frequent-elements) |
 ## Hash Table
 |  |
@@ -65,4 +66,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/SomendraKothari/LEETCODE-PROBLEMS/tree/master/0075-sort-colors) |
+## Binary Search
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/SomendraKothari/LEETCODE-PROBLEMS/tree/master/0209-minimum-size-subarray-sum) |
+## Sliding Window
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/SomendraKothari/LEETCODE-PROBLEMS/tree/master/0209-minimum-size-subarray-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/SomendraKothari/LEETCODE-PROBLEMS/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
