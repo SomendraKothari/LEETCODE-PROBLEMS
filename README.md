@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/SomendraKothari/LEETCODE-PROBLEMS/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/SomendraKothari/LEETCODE-PROBLEMS/tree/master/0075-sort-colors) |
 | [0128-longest-consecutive-sequence](https://github.com/SomendraKothari/LEETCODE-PROBLEMS/tree/master/0128-longest-consecutive-sequence) |
+| [0162-find-peak-element](https://github.com/SomendraKothari/LEETCODE-PROBLEMS/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/SomendraKothari/LEETCODE-PROBLEMS/tree/master/0209-minimum-size-subarray-sum) |
 | [0347-top-k-frequent-elements](https://github.com/SomendraKothari/LEETCODE-PROBLEMS/tree/master/0347-top-k-frequent-elements) |
 | [0485-max-consecutive-ones](https://github.com/SomendraKothari/LEETCODE-PROBLEMS/tree/master/0485-max-consecutive-ones) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0162-find-peak-element](https://github.com/SomendraKothari/LEETCODE-PROBLEMS/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/SomendraKothari/LEETCODE-PROBLEMS/tree/master/0209-minimum-size-subarray-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/SomendraKothari/LEETCODE-PROBLEMS/tree/master/1004-max-consecutive-ones-iii) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/SomendraKothari/LEETCODE-PROBLEMS/tree/master/1838-frequency-of-the-most-frequent-element) |
