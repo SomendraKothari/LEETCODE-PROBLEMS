@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/SomendraKothari/LEETCODE-PROBLEMS/tree/master/0485-max-consecutive-ones) |
 | [0904-fruit-into-baskets](https://github.com/SomendraKothari/LEETCODE-PROBLEMS/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/SomendraKothari/LEETCODE-PROBLEMS/tree/master/1004-max-consecutive-ones-iii) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/SomendraKothari/LEETCODE-PROBLEMS/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/SomendraKothari/LEETCODE-PROBLEMS/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Hash Table
 |  |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/SomendraKothari/LEETCODE-PROBLEMS/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/SomendraKothari/LEETCODE-PROBLEMS/tree/master/0209-minimum-size-subarray-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/SomendraKothari/LEETCODE-PROBLEMS/tree/master/1004-max-consecutive-ones-iii) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/SomendraKothari/LEETCODE-PROBLEMS/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/SomendraKothari/LEETCODE-PROBLEMS/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Sliding Window
 |  |
