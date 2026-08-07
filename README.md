@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/SomendraKothari/LEETCODE-PROBLEMS/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/SomendraKothari/LEETCODE-PROBLEMS/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/SomendraKothari/LEETCODE-PROBLEMS/tree/master/0209-minimum-size-subarray-sum) |
+| [0441-arranging-coins](https://github.com/SomendraKothari/LEETCODE-PROBLEMS/tree/master/0441-arranging-coins) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/SomendraKothari/LEETCODE-PROBLEMS/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/SomendraKothari/LEETCODE-PROBLEMS/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/SomendraKothari/LEETCODE-PROBLEMS/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -113,4 +114,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/SomendraKothari/LEETCODE-PROBLEMS/tree/master/0852-peak-index-in-a-mountain-array) |
+## Math
+|  |
+| ------- |
+| [0441-arranging-coins](https://github.com/SomendraKothari/LEETCODE-PROBLEMS/tree/master/0441-arranging-coins) |
 <!---LeetCode Topics End-->
