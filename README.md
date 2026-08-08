@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/SomendraKothari/LEETCODE-PROBLEMS/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/SomendraKothari/LEETCODE-PROBLEMS/tree/master/0075-sort-colors) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/SomendraKothari/LEETCODE-PROBLEMS/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0234-palindrome-linked-list](https://github.com/SomendraKothari/LEETCODE-PROBLEMS/tree/master/0234-palindrome-linked-list) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/SomendraKothari/LEETCODE-PROBLEMS/tree/master/2300-successful-pairs-of-spells-and-potions) |
 ## Quicksort
 |  |
@@ -130,8 +131,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/SomendraKothari/LEETCODE-PROBLEMS/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/SomendraKothari/LEETCODE-PROBLEMS/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0206-reverse-linked-list](https://github.com/SomendraKothari/LEETCODE-PROBLEMS/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/SomendraKothari/LEETCODE-PROBLEMS/tree/master/0234-palindrome-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/SomendraKothari/LEETCODE-PROBLEMS/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/SomendraKothari/LEETCODE-PROBLEMS/tree/master/0234-palindrome-linked-list) |
+## Stack
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/SomendraKothari/LEETCODE-PROBLEMS/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
