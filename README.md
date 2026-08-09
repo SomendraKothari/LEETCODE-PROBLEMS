@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/SomendraKothari/LEETCODE-PROBLEMS/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/SomendraKothari/LEETCODE-PROBLEMS/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/SomendraKothari/LEETCODE-PROBLEMS/tree/master/0076-minimum-window-substring) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/SomendraKothari/LEETCODE-PROBLEMS/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/SomendraKothari/LEETCODE-PROBLEMS/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/SomendraKothari/LEETCODE-PROBLEMS/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/SomendraKothari/LEETCODE-PROBLEMS/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/SomendraKothari/LEETCODE-PROBLEMS/tree/master/0232-implement-queue-using-stacks) |
@@ -184,4 +186,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/SomendraKothari/LEETCODE-PROBLEMS/tree/master/0169-majority-element) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/SomendraKothari/LEETCODE-PROBLEMS/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
