@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/SomendraKothari/LEETCODE-PROBLEMS/tree/master/0128-longest-consecutive-sequence) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/SomendraKothari/LEETCODE-PROBLEMS/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/SomendraKothari/LEETCODE-PROBLEMS/tree/master/0162-find-peak-element) |
+| [0169-majority-element](https://github.com/SomendraKothari/LEETCODE-PROBLEMS/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/SomendraKothari/LEETCODE-PROBLEMS/tree/master/0209-minimum-size-subarray-sum) |
 | [0347-top-k-frequent-elements](https://github.com/SomendraKothari/LEETCODE-PROBLEMS/tree/master/0347-top-k-frequent-elements) |
 | [0485-max-consecutive-ones](https://github.com/SomendraKothari/LEETCODE-PROBLEMS/tree/master/0485-max-consecutive-ones) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/SomendraKothari/LEETCODE-PROBLEMS/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/SomendraKothari/LEETCODE-PROBLEMS/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/SomendraKothari/LEETCODE-PROBLEMS/tree/master/0160-intersection-of-two-linked-lists) |
+| [0169-majority-element](https://github.com/SomendraKothari/LEETCODE-PROBLEMS/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/SomendraKothari/LEETCODE-PROBLEMS/tree/master/0347-top-k-frequent-elements) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/SomendraKothari/LEETCODE-PROBLEMS/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0904-fruit-into-baskets](https://github.com/SomendraKothari/LEETCODE-PROBLEMS/tree/master/0904-fruit-into-baskets) |
@@ -45,12 +47,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/SomendraKothari/LEETCODE-PROBLEMS/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/SomendraKothari/LEETCODE-PROBLEMS/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/SomendraKothari/LEETCODE-PROBLEMS/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/SomendraKothari/LEETCODE-PROBLEMS/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/SomendraKothari/LEETCODE-PROBLEMS/tree/master/0347-top-k-frequent-elements) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/SomendraKothari/LEETCODE-PROBLEMS/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/SomendraKothari/LEETCODE-PROBLEMS/tree/master/2300-successful-pairs-of-spells-and-potions) |
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/SomendraKothari/LEETCODE-PROBLEMS/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/SomendraKothari/LEETCODE-PROBLEMS/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
 |  |
@@ -63,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/SomendraKothari/LEETCODE-PROBLEMS/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/SomendraKothari/LEETCODE-PROBLEMS/tree/master/0347-top-k-frequent-elements) |
 ## Quickselect
 |  |
@@ -175,4 +180,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/SomendraKothari/LEETCODE-PROBLEMS/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/SomendraKothari/LEETCODE-PROBLEMS/tree/master/0232-implement-queue-using-stacks) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/SomendraKothari/LEETCODE-PROBLEMS/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
