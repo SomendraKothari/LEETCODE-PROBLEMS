@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/SomendraKothari/LEETCODE-PROBLEMS/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/SomendraKothari/LEETCODE-PROBLEMS/tree/master/0076-minimum-window-substring) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/SomendraKothari/LEETCODE-PROBLEMS/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0844-backspace-string-compare](https://github.com/SomendraKothari/LEETCODE-PROBLEMS/tree/master/0844-backspace-string-compare) |
 ## Sorting
 |  |
 | ------- |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/SomendraKothari/LEETCODE-PROBLEMS/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/SomendraKothari/LEETCODE-PROBLEMS/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/SomendraKothari/LEETCODE-PROBLEMS/tree/master/0234-palindrome-linked-list) |
+| [0844-backspace-string-compare](https://github.com/SomendraKothari/LEETCODE-PROBLEMS/tree/master/0844-backspace-string-compare) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/SomendraKothari/LEETCODE-PROBLEMS/tree/master/2300-successful-pairs-of-spells-and-potions) |
 ## Quicksort
 |  |
@@ -162,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/SomendraKothari/LEETCODE-PROBLEMS/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/SomendraKothari/LEETCODE-PROBLEMS/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/SomendraKothari/LEETCODE-PROBLEMS/tree/master/0234-palindrome-linked-list) |
+| [0844-backspace-string-compare](https://github.com/SomendraKothari/LEETCODE-PROBLEMS/tree/master/0844-backspace-string-compare) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -190,4 +193,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/SomendraKothari/LEETCODE-PROBLEMS/tree/master/0020-valid-parentheses) |
+## Simulation
+|  |
+| ------- |
+| [0844-backspace-string-compare](https://github.com/SomendraKothari/LEETCODE-PROBLEMS/tree/master/0844-backspace-string-compare) |
 <!---LeetCode Topics End-->
