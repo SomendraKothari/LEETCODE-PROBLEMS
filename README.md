@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/SomendraKothari/LEETCODE-PROBLEMS/tree/master/0209-minimum-size-subarray-sum) |
 | [0347-top-k-frequent-elements](https://github.com/SomendraKothari/LEETCODE-PROBLEMS/tree/master/0347-top-k-frequent-elements) |
 | [0485-max-consecutive-ones](https://github.com/SomendraKothari/LEETCODE-PROBLEMS/tree/master/0485-max-consecutive-ones) |
+| [0739-daily-temperatures](https://github.com/SomendraKothari/LEETCODE-PROBLEMS/tree/master/0739-daily-temperatures) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/SomendraKothari/LEETCODE-PROBLEMS/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0904-fruit-into-baskets](https://github.com/SomendraKothari/LEETCODE-PROBLEMS/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/SomendraKothari/LEETCODE-PROBLEMS/tree/master/1004-max-consecutive-ones-iii) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/SomendraKothari/LEETCODE-PROBLEMS/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/SomendraKothari/LEETCODE-PROBLEMS/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/SomendraKothari/LEETCODE-PROBLEMS/tree/master/0234-palindrome-linked-list) |
+| [0739-daily-temperatures](https://github.com/SomendraKothari/LEETCODE-PROBLEMS/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/SomendraKothari/LEETCODE-PROBLEMS/tree/master/0844-backspace-string-compare) |
 ## Floyd's Cycle Finding Algorithm
 |  |
@@ -199,4 +201,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0844-backspace-string-compare](https://github.com/SomendraKothari/LEETCODE-PROBLEMS/tree/master/0844-backspace-string-compare) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/SomendraKothari/LEETCODE-PROBLEMS/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
