@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/SomendraKothari/LEETCODE-PROBLEMS/tree/master/0347-top-k-frequent-elements) |
 | [0485-max-consecutive-ones](https://github.com/SomendraKothari/LEETCODE-PROBLEMS/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/SomendraKothari/LEETCODE-PROBLEMS/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/SomendraKothari/LEETCODE-PROBLEMS/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/SomendraKothari/LEETCODE-PROBLEMS/tree/master/0739-daily-temperatures) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/SomendraKothari/LEETCODE-PROBLEMS/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0904-fruit-into-baskets](https://github.com/SomendraKothari/LEETCODE-PROBLEMS/tree/master/0904-fruit-into-baskets) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/SomendraKothari/LEETCODE-PROBLEMS/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/SomendraKothari/LEETCODE-PROBLEMS/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/SomendraKothari/LEETCODE-PROBLEMS/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/SomendraKothari/LEETCODE-PROBLEMS/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/SomendraKothari/LEETCODE-PROBLEMS/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/SomendraKothari/LEETCODE-PROBLEMS/tree/master/0844-backspace-string-compare) |
 ## Floyd's Cycle Finding Algorithm
@@ -208,5 +210,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/SomendraKothari/LEETCODE-PROBLEMS/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/SomendraKothari/LEETCODE-PROBLEMS/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/SomendraKothari/LEETCODE-PROBLEMS/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
