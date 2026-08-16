@@ -4,12 +4,12 @@
 #         self.val = val
 #         self.next = next
 class Solution(object):
-    def rev(self,c,n,p):
+    def rev(self,c,p):
         if c==None:
             return p
         n=c.next
         c.next=p
-        return self.rev(n,n,c)
+        return self.rev(n,c)
     def reverseList(self, head):
         """
         :type head: Optional[ListNode]
@@ -24,5 +24,5 @@ class Solution(object):
         #     c=n
         # return p
 
-        return self.rev(head,None,None)
+        return self.rev(head,None)
 
