@@ -4,9 +4,8 @@ class Solution(object):
         :type asteroids: List[int]
         :rtype: List[int]
         """
-        s=[sa[0]]
-        for i in range(1,len(sa)):
-            a=sa[i]
+        s=[]
+        for a in sa:
             c=1
             if a<0:
                 while s and s[-1]>0:
@@ -20,5 +19,5 @@ class Solution(object):
                         c=0
                         break
             if c==1:
-                s.append(sa[i])
+                s.append(a)
         return s
