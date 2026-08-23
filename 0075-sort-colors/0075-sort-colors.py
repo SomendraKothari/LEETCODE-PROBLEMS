@@ -55,12 +55,28 @@ class Solution(object):
         # return self.qs(n,0,len(n)-1)
         # quick sort
 
-        sa=[0]*(3)
-        for i in n:
-            sa[i]+=1
-        j=0
-        for i in range(3):
-            while sa[i]>0:
-                n[j]=i
-                j+=1
-                sa[i]-=1
+        # sa=[0]*(3)
+        # for i in n:
+        #     sa[i]+=1
+        # j=0
+        # for i in range(3):
+        #     while sa[i]>0:
+        #         n[j]=i
+        #         j+=1
+        #         sa[i]-=1
+        # counting sort
+    
+
+
+        l=z=0
+        r=len(n)-1
+        while l<=r:
+            if n[l]==2:
+                n[l],n[r]=n[r],n[l]
+                r-=1
+            elif n[l]==0:
+                    n[l],n[z]=n[z],n[l]
+                    z+=1
+                    l+=1
+            else:
+                    l+=1
