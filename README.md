@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/SomendraKothari/LEETCODE-PROBLEMS/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/SomendraKothari/LEETCODE-PROBLEMS/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/SomendraKothari/LEETCODE-PROBLEMS/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/SomendraKothari/LEETCODE-PROBLEMS/tree/master/0088-merge-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/SomendraKothari/LEETCODE-PROBLEMS/tree/master/0128-longest-consecutive-sequence) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/SomendraKothari/LEETCODE-PROBLEMS/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/SomendraKothari/LEETCODE-PROBLEMS/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/SomendraKothari/LEETCODE-PROBLEMS/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/SomendraKothari/LEETCODE-PROBLEMS/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/SomendraKothari/LEETCODE-PROBLEMS/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/SomendraKothari/LEETCODE-PROBLEMS/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/SomendraKothari/LEETCODE-PROBLEMS/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/SomendraKothari/LEETCODE-PROBLEMS/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/SomendraKothari/LEETCODE-PROBLEMS/tree/master/0912-sort-an-array) |
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/SomendraKothari/LEETCODE-PROBLEMS/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/SomendraKothari/LEETCODE-PROBLEMS/tree/master/0075-sort-colors) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/SomendraKothari/LEETCODE-PROBLEMS/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0088-merge-sorted-array](https://github.com/SomendraKothari/LEETCODE-PROBLEMS/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/SomendraKothari/LEETCODE-PROBLEMS/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/SomendraKothari/LEETCODE-PROBLEMS/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/SomendraKothari/LEETCODE-PROBLEMS/tree/master/0160-intersection-of-two-linked-lists) |
