@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/SomendraKothari/LEETCODE-PROBLEMS/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/SomendraKothari/LEETCODE-PROBLEMS/tree/master/0209-minimum-size-subarray-sum) |
 | [0347-top-k-frequent-elements](https://github.com/SomendraKothari/LEETCODE-PROBLEMS/tree/master/0347-top-k-frequent-elements) |
+| [0435-non-overlapping-intervals](https://github.com/SomendraKothari/LEETCODE-PROBLEMS/tree/master/0435-non-overlapping-intervals) |
 | [0485-max-consecutive-ones](https://github.com/SomendraKothari/LEETCODE-PROBLEMS/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/SomendraKothari/LEETCODE-PROBLEMS/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/SomendraKothari/LEETCODE-PROBLEMS/tree/master/0503-next-greater-element-ii) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/SomendraKothari/LEETCODE-PROBLEMS/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/SomendraKothari/LEETCODE-PROBLEMS/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/SomendraKothari/LEETCODE-PROBLEMS/tree/master/0347-top-k-frequent-elements) |
+| [0435-non-overlapping-intervals](https://github.com/SomendraKothari/LEETCODE-PROBLEMS/tree/master/0435-non-overlapping-intervals) |
 | [0912-sort-an-array](https://github.com/SomendraKothari/LEETCODE-PROBLEMS/tree/master/0912-sort-an-array) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/SomendraKothari/LEETCODE-PROBLEMS/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/SomendraKothari/LEETCODE-PROBLEMS/tree/master/2300-successful-pairs-of-spells-and-potions) |
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/SomendraKothari/LEETCODE-PROBLEMS/tree/master/0402-remove-k-digits) |
+| [0435-non-overlapping-intervals](https://github.com/SomendraKothari/LEETCODE-PROBLEMS/tree/master/0435-non-overlapping-intervals) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/SomendraKothari/LEETCODE-PROBLEMS/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Ternary Search
 |  |
@@ -249,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0435-non-overlapping-intervals](https://github.com/SomendraKothari/LEETCODE-PROBLEMS/tree/master/0435-non-overlapping-intervals) |
 | [0509-fibonacci-number](https://github.com/SomendraKothari/LEETCODE-PROBLEMS/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
