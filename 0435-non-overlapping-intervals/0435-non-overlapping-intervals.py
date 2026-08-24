@@ -4,10 +4,9 @@ class Solution(object):
         :type intervals: List[List[int]]
         :rtype: int
         """
-        n.sort(key=lambda x : x[1])
+        n.sort(key=lambda x:x[1])
         l=len(n)
-        p=0
-        c=0
+        p=c=0# c for overlapping ones
         for i in range(1,l):
             if n[i][0]<n[p][1]:
                 c+=1
