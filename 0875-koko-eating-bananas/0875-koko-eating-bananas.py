@@ -12,8 +12,8 @@ class Solution(object):
             rh=0
             for i in p:
                 rh+=(i-1)//m+1
-            if rh<=h:
-                r=m-1
-            else:
+            if rh>h:
                 l=m+1
+            else:
+                r=m-1
         return l
