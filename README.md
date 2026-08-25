@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/SomendraKothari/LEETCODE-PROBLEMS/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/SomendraKothari/LEETCODE-PROBLEMS/tree/master/0739-daily-temperatures) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/SomendraKothari/LEETCODE-PROBLEMS/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0875-koko-eating-bananas](https://github.com/SomendraKothari/LEETCODE-PROBLEMS/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/SomendraKothari/LEETCODE-PROBLEMS/tree/master/0904-fruit-into-baskets) |
 | [0912-sort-an-array](https://github.com/SomendraKothari/LEETCODE-PROBLEMS/tree/master/0912-sort-an-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/SomendraKothari/LEETCODE-PROBLEMS/tree/master/1004-max-consecutive-ones-iii) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/SomendraKothari/LEETCODE-PROBLEMS/tree/master/0209-minimum-size-subarray-sum) |
 | [0441-arranging-coins](https://github.com/SomendraKothari/LEETCODE-PROBLEMS/tree/master/0441-arranging-coins) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/SomendraKothari/LEETCODE-PROBLEMS/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0875-koko-eating-bananas](https://github.com/SomendraKothari/LEETCODE-PROBLEMS/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/SomendraKothari/LEETCODE-PROBLEMS/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/SomendraKothari/LEETCODE-PROBLEMS/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/SomendraKothari/LEETCODE-PROBLEMS/tree/master/1838-frequency-of-the-most-frequent-element) |
