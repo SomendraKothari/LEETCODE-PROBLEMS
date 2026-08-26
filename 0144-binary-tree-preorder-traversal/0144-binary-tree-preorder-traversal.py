@@ -5,12 +5,12 @@
 #         self.left = left
 #         self.right = right
 class Solution(object):
-    def rec(self,root,ans):
-        if root==None:
-            return
-        ans.append(root.val)
-        self.rec(root.left,ans)
-        self.rec(root.right,ans)
+    # def rec(self,root,ans):
+    #     if root==None:
+    #         return
+    #     ans.append(root.val)
+    #     self.rec(root.left,ans)
+    #     self.rec(root.right,ans)
 
     def preorderTraversal(self, root):
         """
@@ -18,5 +18,11 @@ class Solution(object):
         :rtype: List[int]
         """
         ans=[]
-        self.rec(root,ans)
+        def rec(root):
+            if root==None:
+                return
+            ans.append(root.val)
+            rec(root.left)
+            rec(root.right)
+        rec(root)
         return ans
