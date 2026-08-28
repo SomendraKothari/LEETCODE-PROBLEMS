@@ -11,8 +11,8 @@ class Solution(object):
         :rtype: int
         """
         def rec(root):
-            if not root or (not root.right and not root.left):
-                return 1
+            if not root:
+                return 0
             return max(rec(root.right),rec(root.left)) + 1
         if not root:
             return 0
