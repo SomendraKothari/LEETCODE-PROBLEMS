@@ -39,15 +39,15 @@ class Solution(object):
         ans.append(root.val)
         while q.size()>0:
             l=q.size()
-            le=[]
+            le=None
             for i in range(l):
                 x=q.pop()
                 if x.left:
                     q.push(x.left)
-                    le.append(x.left.val)
+                    le=x.left.val
                 if x.right:
                     q.push(x.right)
-                    le.append(x.right.val)
-            if len(le)>0:
-                ans.append(le[-1])
+                    le=x.right.val
+            if le!=None:
+                ans.append(le)
         return ans
