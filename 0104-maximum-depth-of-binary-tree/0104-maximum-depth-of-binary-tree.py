@@ -14,6 +14,4 @@ class Solution(object):
             if not root:
                 return 0
             return max(rec(root.right),rec(root.left)) + 1
-        if not root:
-            return 0
         return rec(root)
