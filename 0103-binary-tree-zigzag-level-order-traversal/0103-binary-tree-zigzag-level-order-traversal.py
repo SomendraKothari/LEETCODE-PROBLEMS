@@ -43,7 +43,6 @@ class Solution(object):
             le=[]
             for i in range(l):
                 x=q.pop()
-                print(c)
                 if x.left:
                     q.push(x.left)
                     le.append(x.left.val)
