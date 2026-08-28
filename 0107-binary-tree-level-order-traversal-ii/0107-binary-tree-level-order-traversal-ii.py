@@ -49,8 +49,6 @@ class Solution(object):
                     q.push(x.right)
                     le.append(x.right.val)
             if len(le)>0:
-                ans.insert(0,le)
-        # res=[]*len(ans)
-        # for i in range(len(ans)-1,-1,-1):
-        #     res.append(ans[i])
+                ans.append(le)
+        ans.reverse()
         return ans
