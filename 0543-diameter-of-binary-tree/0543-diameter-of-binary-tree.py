@@ -5,21 +5,31 @@
 #         self.left = left
 #         self.right = right
 class Solution(object):
-    def __init__(self):
-        self.m=[]
-    def h(self,root):
-        if not root:
-            return 0
-        l=self.h(root.left)
-        r=self.h(root.right)
-        self.m.append(l+r)
-        if l>r:
-            return l+1
-        return r+1
+    # def __init__(self):
+    #     self.m=0
+    # def h(self,root):
+    #     if not root:
+    #         return 0
+    #     l=self.h(root.left)
+    #     r=self.h(root.right)
+    #     if l+r>self.m:
+    #         self.m=l+r
+    #     # if l>r:
+    #     #     return l+1
+    #     return max(r,l)+1
     def diameterOfBinaryTree(self, root):
         """
         :type root: Optional[TreeNode]
         :rtype: int
         """
-        l=self.h(root)
-        return max(self.m)
+        self.m=0
+        def h(root):
+            if not root:
+                return 0
+            l=h(root.left)
+            r=h(root.right)
+            if l+r>self.m:
+                self.m=l+r
+            return max(r,l)+1
+        h(root)
+        return self.m
