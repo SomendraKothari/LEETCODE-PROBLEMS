@@ -20,7 +20,6 @@ class Solution(object):
             if not root:
                 return 0
             s+=root.val
-            print(s,root.val)
             l=check(root.left,s)
             r=check(root.right,s)
             if l==0 and r==0 and s==t:
