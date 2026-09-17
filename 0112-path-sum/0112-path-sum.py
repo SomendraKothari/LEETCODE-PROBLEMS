@@ -22,9 +22,8 @@ class Solution(object):
             s+=root.val
             l=check(root.left,s)
             r=check(root.right,s)
-            if l==0 and r==0:
-                if s==t:
-                    self.ans=True
-                    return 0
+            if l==0 and r==0 and s==t:
+                self.ans=True
+                return 0
         check(root,0)
         return self.ans
