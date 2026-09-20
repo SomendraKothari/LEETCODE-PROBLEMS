@@ -13,8 +13,8 @@ class Solution(object):
         """
         l=len(p)
         d={}
-        for ind,v in enumerate(i):
-            d[v]=ind
+        for j in range(l):
+            d[i[j]]=j
         def r(p,ps,pe,i,iss,ie):
             if ps>pe or iss>ie:
                 return None
