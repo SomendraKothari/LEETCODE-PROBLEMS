@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/SomendraKothari/LEETCODE-PROBLEMS/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/SomendraKothari/LEETCODE-PROBLEMS/tree/master/0912-sort-an-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/SomendraKothari/LEETCODE-PROBLEMS/tree/master/1004-max-consecutive-ones-iii) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/SomendraKothari/LEETCODE-PROBLEMS/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/SomendraKothari/LEETCODE-PROBLEMS/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1046-last-stone-weight](https://github.com/SomendraKothari/LEETCODE-PROBLEMS/tree/master/1046-last-stone-weight) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/SomendraKothari/LEETCODE-PROBLEMS/tree/master/1838-frequency-of-the-most-frequent-element) |
@@ -231,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/SomendraKothari/LEETCODE-PROBLEMS/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/SomendraKothari/LEETCODE-PROBLEMS/tree/master/0844-backspace-string-compare) |
 | [0901-online-stock-span](https://github.com/SomendraKothari/LEETCODE-PROBLEMS/tree/master/0901-online-stock-span) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/SomendraKothari/LEETCODE-PROBLEMS/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -274,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/SomendraKothari/LEETCODE-PROBLEMS/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/SomendraKothari/LEETCODE-PROBLEMS/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/SomendraKothari/LEETCODE-PROBLEMS/tree/master/0901-online-stock-span) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/SomendraKothari/LEETCODE-PROBLEMS/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -332,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0637-average-of-levels-in-binary-tree](https://github.com/SomendraKothari/LEETCODE-PROBLEMS/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/SomendraKothari/LEETCODE-PROBLEMS/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/SomendraKothari/LEETCODE-PROBLEMS/tree/master/0701-insert-into-a-binary-search-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/SomendraKothari/LEETCODE-PROBLEMS/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -374,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0637-average-of-levels-in-binary-tree](https://github.com/SomendraKothari/LEETCODE-PROBLEMS/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/SomendraKothari/LEETCODE-PROBLEMS/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/SomendraKothari/LEETCODE-PROBLEMS/tree/master/0701-insert-into-a-binary-search-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/SomendraKothari/LEETCODE-PROBLEMS/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -395,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0450-delete-node-in-a-bst](https://github.com/SomendraKothari/LEETCODE-PROBLEMS/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/SomendraKothari/LEETCODE-PROBLEMS/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/SomendraKothari/LEETCODE-PROBLEMS/tree/master/0701-insert-into-a-binary-search-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/SomendraKothari/LEETCODE-PROBLEMS/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## DP on Trees
 |  |
 | ------- |
