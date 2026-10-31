@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/SomendraKothari/LEETCODE-PROBLEMS/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/SomendraKothari/LEETCODE-PROBLEMS/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/SomendraKothari/LEETCODE-PROBLEMS/tree/master/0169-majority-element) |
+| [0204-count-primes](https://github.com/SomendraKothari/LEETCODE-PROBLEMS/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/SomendraKothari/LEETCODE-PROBLEMS/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/SomendraKothari/LEETCODE-PROBLEMS/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/SomendraKothari/LEETCODE-PROBLEMS/tree/master/0347-top-k-frequent-elements) |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/SomendraKothari/LEETCODE-PROBLEMS/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/SomendraKothari/LEETCODE-PROBLEMS/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/SomendraKothari/LEETCODE-PROBLEMS/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0204-count-primes](https://github.com/SomendraKothari/LEETCODE-PROBLEMS/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/SomendraKothari/LEETCODE-PROBLEMS/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/SomendraKothari/LEETCODE-PROBLEMS/tree/master/0326-power-of-three) |
 | [0441-arranging-coins](https://github.com/SomendraKothari/LEETCODE-PROBLEMS/tree/master/0441-arranging-coins) |
@@ -406,4 +408,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/SomendraKothari/LEETCODE-PROBLEMS/tree/master/0543-diameter-of-binary-tree) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/SomendraKothari/LEETCODE-PROBLEMS/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/SomendraKothari/LEETCODE-PROBLEMS/tree/master/0204-count-primes) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/SomendraKothari/LEETCODE-PROBLEMS/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/SomendraKothari/LEETCODE-PROBLEMS/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/SomendraKothari/LEETCODE-PROBLEMS/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
